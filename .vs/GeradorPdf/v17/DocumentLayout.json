@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\geradorpdf\\geradorpdf\\service\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|solutionrelative:geradorpdf\\service\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\geradorpdf\\geradorpdf\\controller\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|solutionrelative:geradorpdf\\controller\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\geradorpdf\\geradorpdf\\service\\ipessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|solutionrelative:geradorpdf\\service\\ipessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\geradorpdf\\geradorpdf\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|solutionrelative:geradorpdf\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\geradorpdf\\geradorpdf\\migrations\\contextdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|solutionrelative:geradorpdf\\migrations\\contextdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\geradorpdf\\geradorpdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|solutionrelative:geradorpdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\geradorpdf\\geradorpdf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|solutionrelative:geradorpdf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\geradorpdf\\geradorpdf\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F621F-9D7F-42AC-886A-DCF400A25266}|GeradorPdf\\GeradorPdf.csproj|solutionrelative:geradorpdf\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContextDbModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Migrations\\ContextDbModelSnapshot.cs",
+              "RelativeDocumentMoniker": "GeradorPdf\\Migrations\\ContextDbModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Migrations\\ContextDbModelSnapshot.cs",
+              "RelativeToolTip": "GeradorPdf\\Migrations\\ContextDbModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T20:37:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Service\\PessoaService.cs",
+              "RelativeDocumentMoniker": "GeradorPdf\\Service\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Service\\PessoaService.cs",
+              "RelativeToolTip": "GeradorPdf\\Service\\PessoaService.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAADwv4EAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:11:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoasController.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Controller\\PessoasController.cs",
+              "RelativeDocumentMoniker": "GeradorPdf\\Controller\\PessoasController.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Controller\\PessoasController.cs",
+              "RelativeToolTip": "GeradorPdf\\Controller\\PessoasController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:36:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\appsettings.json",
+              "RelativeDocumentMoniker": "GeradorPdf\\appsettings.json",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\appsettings.json",
+              "RelativeToolTip": "GeradorPdf\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T03:58:16.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Model\\Pessoa.cs",
+              "RelativeDocumentMoniker": "GeradorPdf\\Model\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Model\\Pessoa.cs",
+              "RelativeToolTip": "GeradorPdf\\Model\\Pessoa.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T03:24:29.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPessoa.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Service\\IPessoa.cs",
+              "RelativeDocumentMoniker": "GeradorPdf\\Service\\IPessoa.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Service\\IPessoa.cs",
+              "RelativeToolTip": "GeradorPdf\\Service\\IPessoa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:37:07.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Program.cs",
+              "RelativeDocumentMoniker": "GeradorPdf\\Program.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Program.cs",
+              "RelativeToolTip": "GeradorPdf\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:14:39.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Context\\ContextDb.cs",
+              "RelativeDocumentMoniker": "GeradorPdf\\Context\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\GeradorPdf\\GeradorPdf\\Context\\ContextDb.cs",
+              "RelativeToolTip": "GeradorPdf\\Context\\ContextDb.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T03:29:33.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

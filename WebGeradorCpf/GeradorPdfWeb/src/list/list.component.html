@@ -1,0 +1,21 @@
+   <div  fxLayout="column"  fxLayoutAlign="center center" style="margin: 1rem;">
+<button  mat-raised-button color="accent" routerLink="" style="margin: 1rem;" >Voltar</button>
+<button mat-raised-button color="primary" (click)="baixarPdf()"> <mat-icon>picture_as_pdf</mat-icon>Baixar Todas Pessoas</button>
+</div>
+
+<div  fxLayout="column" fxLayoutAlign="center center">
+    <h1>Lista De Pessoas</h1>
+    <mat-card  *ngFor=" let pessoa of listaDePessoas">
+        <mat-card-title>{{pessoa.nome}}</mat-card-title>
+        <mat-card-content>
+            <p>Email:{{pessoa.email}}</p>
+            <p>Profissão:{{pessoa.profissao}}</p>
+            <p>Cidade:{{pessoa.habilidade}}</p>
+        </mat-card-content>
+        <button mat-button (click)="baixarPdfPessoa(pessoa.id!)">
+<mat-icon>picture_as_pdf</mat-icon>
+    Baixar Pdf</button>
+        
+    </mat-card>
+  
+</div>

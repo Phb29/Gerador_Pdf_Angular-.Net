@@ -1,0 +1,22 @@
+
+<div fxLayout="column" fxLayoutAlign="center center">
+<form fxLayout="column" #form="ngForm" (ngSubmit)="adicionarPessoa(form)" class="form-container" >
+  <mat-form-field>
+    <input matInput placeholder="Nome" [(ngModel)]="pessoa.nome" name="nome" required>
+  </mat-form-field>
+  <mat-form-field>
+    <input matInput placeholder="Email" [(ngModel)]="pessoa.email" name="email" required>
+  </mat-form-field>
+  <mat-form-field>
+    <input matInput placeholder="Profissão" [(ngModel)]="pessoa.profissao" name="profissao" required>
+  </mat-form-field>
+  <mat-form-field>
+    <input matInput placeholder="Cidade" [(ngModel)]="pessoa.habilidade" name="habilidade" required>
+  </mat-form-field>
+  <button mat-raised-button color="primary" >Adicionar Pessoa</button>
+
+</form>
+<button  mat-raised-button color="accent" routerLink="/listagem" style="margin: 10px;" >Lista De Pessoas</button>
+</div>
+
+
